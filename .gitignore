@@ -141,3 +141,4 @@ cython_debug/
 
 # Data files
 intro-to-pytorch/dogs-vs-cats
+convolutional-neural-networks/cifar-cnn/data
