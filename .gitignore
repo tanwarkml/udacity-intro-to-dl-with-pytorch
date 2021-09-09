@@ -143,3 +143,4 @@ cython_debug/
 intro-to-pytorch/dogs-vs-cats
 convolutional-neural-networks/cifar-cnn/data
 transfer-learning/flower_photos
+weight-initialization/data
